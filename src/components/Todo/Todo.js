@@ -10,7 +10,7 @@ function Todo() {
 
     return (
         <div className="todo">
-            <Header title="MI TITULO" />
+            <Header title="NUEVO TITULO" />
             <AddInput 
                 setTodos={setTodos}
                 todos={todos}
