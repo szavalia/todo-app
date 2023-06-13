@@ -10,7 +10,7 @@ function Todo() {
 
     return (
         <div className="todo">
-            <Header title="TITULO DE LA APP" />
+            <Header title="TODO" />
             <AddInput 
                 setTodos={setTodos}
                 todos={todos}
