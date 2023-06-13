@@ -18,7 +18,7 @@ function AddInput({
                 completed: false
             }
         ]
-        setTodos(updatedTodos);
+        // setTodos(updatedTodos);
         setTodo("")
     }
 
